@@ -142,6 +142,10 @@ a.nav-link.active:hover{
     position: relative;
 }
 
+/* .buttons {
+    do something about this buttons
+} */
+
 .agro-photos {
     height: 700px;
 }
@@ -637,7 +641,7 @@ a.nav-link.active:hover{
 .first {
     display: flex;
     flex-direction: row;
-    width: 400px;
+    width: 100%;
     cursor: pointer;
 }
 
